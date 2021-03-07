@@ -1,0 +1,16 @@
+{
+"companyName": "toot.ai",
+"productName": "KUUBIK",
+"productVersion": "0.1",
+"dataUrl": "KUUBIK.data.unityweb",
+"wasmCodeUrl": "KUUBIK.wasm.code.unityweb",
+"wasmFrameworkUrl": "KUUBIK.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#C0C0C0",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
